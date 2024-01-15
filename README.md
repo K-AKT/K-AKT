@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @K-AKT
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning C-Programming Language.
-- 📫 you can reach me at ak4689554@gmail.com  
+- 👀 I’m interested in Web Development and python programming.
+- 🌱 I’m currently learning C & C++ Programming Language.
+- 📫 you can reach me at ak4689554@gmail.com
+- 
